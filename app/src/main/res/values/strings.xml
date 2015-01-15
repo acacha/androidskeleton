@@ -1,8 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Ebre_escool_app</string>
+    <string name="app_name">AndroidSocialLoginTemplate</string>
+    <string name="app_id">953279441368135</string>
+    <string name="action_settings">Configuració</string>
+
+    <style name="ButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+
+    <string name="sign_in_with_google">Entreu amb Google+</string>
+    <string name="sign_in_with_facebook">Entreu amb Facebook</string>
+    <string name="sign_in_with_twitter">Entreu amb Twitter</string>
+    <string name="title_activity_main">AndroidSocialLoginTemplate</string>
+    <string name="title_section1">Secció 1</string>
+    <string name="title_section2">Secció 2</string>
+    <string name="title_section3">Revocar accés</string>
+    <string name="title_section4">Sortir</string>
+    <string name="navigation_drawer_open">Obrir el calaix de navegació</string>
+    <string name="navigation_drawer_close">Tancar el calaix de navegació</string>
+    <string name="action_example">Acció TODO</string>
+    <string name="hello_blank_fragment1">Fragment Secció 1</string>
+    <string name="hello_blank_fragment2">Fragment Secció 2</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main_activity_blank_fragment_esborrar">MainActivityBlankFragmentEsborrar</string>
     <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    
+    <string name="com_facebook_loginview_log_in_button">Entreu amb Facebook</string>
+    <string name="com_facebook_loginview_log_out_button">Sortiu de facebook</string>
 
 </resources>
