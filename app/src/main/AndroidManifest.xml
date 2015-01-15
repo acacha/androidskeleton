@@ -31,7 +31,7 @@
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
-                <data android:scheme="oauth" android:host="com.iesebre.dam2.pa201415.sergi.androidsociallogintemplate"/>
+                <data android:scheme="oauth" android:host="org.acacha.ebre_escool.ebre_escool_app"/>
             </intent-filter>
         </activity>
         

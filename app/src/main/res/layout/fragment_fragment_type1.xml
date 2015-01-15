@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.iesebre.dam2.pa201415.sergi.androidsociallogintemplate.FragmentType1" >
+    tools:context="org.acacha.ebre_escool.ebre_escool_app.FragmentType1" >
 
     <!-- TODO: Update blank fragment layout -->
 
